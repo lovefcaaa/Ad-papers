@@ -10,8 +10,8 @@
 
 ## 目录
 
-### kickoff 
-* 斯坦福大学([Introduction to Computational Advertising](http://people.stern.nyu.edu/ja1517/data/lecture-02.pdf))
+### kickoff  
+* 斯坦福大学([Introduction to Computational Advertising](http://people.stern.nyu.edu/ja1517/data/lecture-02.pdf))[部分翻译](http://www.cnblogs.com/Jack47/p/computational_advertising-sponsored_search.html)
 
 ### Allocation
 广告流量的分配问题
